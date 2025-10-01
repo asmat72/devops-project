@@ -1,7 +1,7 @@
 # DevOps Project
-    A DevOps demo project using Git best practices. This project demonstrates a clean branching strategy and collaboration workflow using GitHub.
+A DevOps demo project using Git best practices. This project demonstrates a clean branching strategy and collaboration workflow using GitHub.
 ### Project Description
-    This project showcases how to work efficiently with Git branches (`main`, `dev`, `feature/*`) and automate deployments using GitHub Actions and SSH to AWS instances.
+This project showcases how to work efficiently with Git branches (`main`, `dev`, `feature/*`) and automate deployments using GitHub Actions and SSH to AWS instances.
 ### Setup Instructions
   1. Clone the repository: git clone https://github.com/asmat72/devops-project.git  /cd devops-project
   2. Create and switch to feature branches for new development.
